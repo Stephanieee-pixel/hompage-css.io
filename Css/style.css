@@ -1,0 +1,74 @@
+h1 {
+  color:#A44A3F;
+  font-family:'Courgette', cursive;
+  text-align:center;
+}
+h1:hover{
+  color:#582C4D;
+}
+h2 {
+  color:rgb(152, 54, 129);
+  font-family: 'Kalam', cursive;"
+}
+p {
+  color:rgb(17, 164, 150);
+  font-family: 'Righteous', cursive;
+  font-size:22px;
+  text-indent:15px;
+  margin-left:40px;
+  margin-right:40px;
+  width: 500px;
+}
+h3 {
+  color:rgb(215, 202, 23);
+  font-size:35px;
+  font-family: 'Amaranth', sans-serif;
+  margin-left:1660px
+}
+.table {
+  width:70px;
+  height:70px;
+}
+table{
+  border-collapse:collapse;
+}
+th {
+  font-family: 'Anton', sans-serif;
+  font-size:30px;
+}
+td {
+  font-family: 'Shadows Into Light', cursive;
+  font-size:25px;
+  color:rgb(21, 172, 218);
+}
+li {
+  font-family: 'Lobster Two', cursive;
+  font-size:25px;
+  margin-left: 1650px
+}
+h4 {
+  font-size:30px;
+  font-family: 'Rock Salt', cursive;
+  color:rgb(116, 78, 195);
+}
+ul {
+  color:rgb(97, 158, 111);
+}
+body{
+  background-image: url('../img/photo-taking.jpg');
+}
+img{
+  width:350px;
+  height:200px;
+}
+.toolbar{
+  width:700px;
+  height:40px;
+  text-align: center;
+  background-color:#C7AC92;
+  font-family: 'Francois One', sans-serif;
+  padding: 0px;
+}
+a{
+  color:#A44A3F;
+}
